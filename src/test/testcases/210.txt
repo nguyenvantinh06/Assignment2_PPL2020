@@ -1,0 +1,10 @@
+
+        Function: foo
+        Body:
+      
+        While (n<10) && (m<10) && (check!=False)  Do 
+        
+        EndWhile.
+       
+        EndBody.
+        

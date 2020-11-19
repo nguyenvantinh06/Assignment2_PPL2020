@@ -1,0 +1,11 @@
+
+            Var: x;
+            Function: fact 
+                Parameter: n, a
+                Body: 
+                    For (i=2+2, i<10+123, 2-123+123) Do
+                        While (i==2) Do a=a+1;
+                        EndWhile.
+                    EndFor.
+                EndBody.
+            

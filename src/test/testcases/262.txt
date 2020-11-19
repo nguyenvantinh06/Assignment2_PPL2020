@@ -1,0 +1,14 @@
+
+Function: main
+    Body:
+        Do 
+           While i!=1 Do 
+            
+            a=special(g)+letranquynhnhu(102);
+            i=123*345;
+            m=foo(a[i]);
+           EndWhile.
+        While (a>b) && (b<foo[j]) EndDo.
+        Return abc_tinh(abc);
+    EndBody.
+        

@@ -1,0 +1,35 @@
+
+                 Function: main
+                    Body:
+                    While (a ==1) > 5  Do b=b+1; EndWhile.
+                    EndBody.
+                 Function: main2
+                    Body:
+                    For (j=foo(123),j<=a,1) Do
+                     If (a[i]>a[j]) Then
+                         temp = a[j];
+                         a[j]=a[i];
+                        a[i]=temp;
+                        
+                         EndIf.
+                    EndFor.
+                    EndBody.
+                Function: main1
+                    Body:
+                    While (a < True) >( 5>5)  Do b=b+1; EndWhile.
+                    EndBody.
+                     Function: main3
+                    Body:
+                    While (a < True) > (5==5)  Do b=b+1; EndWhile.
+                    EndBody.
+                    Var: r = 10;
+                    Function: abc
+                    Parameter: n, a[5][7], bcd[9]
+                    Body:
+                        a[3 + foo(2)] = a[b[2][3]] + 4;
+                        
+                        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                        If (a==a-7)Then
+                        EndIf.
+                    EndBody.
+                

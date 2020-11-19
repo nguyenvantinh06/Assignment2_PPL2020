@@ -1,0 +1,7 @@
+
+             Function: foo 
+                Parameter: a[0x10][0X123], b[0o123][0O123] 
+                Body:
+                    print(toni_kross,"chuyen",bcc);
+                EndBody.
+            

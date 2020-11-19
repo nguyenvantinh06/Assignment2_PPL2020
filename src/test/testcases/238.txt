@@ -1,0 +1,23 @@
+ 
+            Var: a = 3, b;
+                Function: main
+                    Body:
+                    While (a ==1) > 5  Do b=b+1; EndWhile.
+                    EndBody.
+                 Function: main2
+                    Body:
+                    While (a == True) > 5  Do b=b+1; EndWhile.
+                    EndBody.
+                Function: main1
+                    Body:
+                    While (a < True) >( 5>5)  Do b=b+1; EndWhile.
+                    EndBody.
+                     Function: main3
+                    Body:
+                    While (a < True) > (5==5)  Do b=b+1; EndWhile.
+                    EndBody.
+                Function: main12
+    Body: 
+       ** this is a comment**
+    EndBody.
+                

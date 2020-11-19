@@ -1,0 +1,27 @@
+
+        Function:foo
+        Parameter:b
+        Body:
+        For (i=5,m==123,10) Do
+            For (abc_5=123,m==123*123-asdf[foo(f12[123]*foo(1))],i+.1*.21) Do
+                While (i==i+foo(123*123.+.foo[1])) Do
+                    string=string+"1";
+                EndWhile.
+            EndFor.
+        EndFor.
+
+        EndBody.
+        Function:main
+        Parameter:b[10][123]
+        Body:
+        For (i=5,m==123-213+213213*213-12-.1+.1.+1.,10) Do
+            For (abc_5=123,m==123*123-asdf[foo(f12[123]*foo(1))],i+.1*.21) Do
+                While (i==i+foo(123*123.-.foo[1])) Do
+                    string=string+"1";
+                    a=25[25];
+                EndWhile.
+            EndFor.
+        EndFor.
+
+        EndBody.
+        

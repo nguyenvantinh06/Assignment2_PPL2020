@@ -1,0 +1,13 @@
+
+Function: main
+    Body:
+        While (n>1) Do
+            While (m>1) Do
+                While (k<foo(a[n][b])) Do
+                    While (f!= 11-k) Do
+                        i=(i+1)-(2*abc) ||(a==a123) ||(a!=123) ;
+                    EndWhile.
+            EndWhile.
+        EndWhile.
+    EndBody.
+        

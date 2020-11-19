@@ -1,0 +1,9 @@
+
+        Function: foo
+        Body:
+        If (a==2) Then
+        Var: a=1;
+        y = foo(2 + x, 4. \. y)+a;
+        EndIf.
+        EndBody.
+        

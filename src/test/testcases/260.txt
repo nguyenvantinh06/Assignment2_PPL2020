@@ -1,0 +1,6 @@
+ Var:c = 5, a; 
+        Function:nhuiuiuiuiuiu
+        Body:
+        iu=iu+1;
+        EndBody.
+        

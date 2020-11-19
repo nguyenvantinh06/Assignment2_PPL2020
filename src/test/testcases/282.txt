@@ -1,0 +1,19 @@
+
+            Function: main
+	        Parameter: a,b,c,d,e
+	        Body:
+		        Break;
+                Return;
+	        EndBody.
+            
+            Function: main
+	        Body:
+		        Var: s = 0;
+		        For (i = 0, i < 10, 1) Do
+			        If s >= 40 Then Continue;
+                    Break;
+                    Continue;
+			        EndIf.
+		        EndFor.
+	        EndBody.
+            

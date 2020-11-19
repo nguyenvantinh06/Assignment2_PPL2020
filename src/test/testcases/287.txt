@@ -1,0 +1,12 @@
+
+            Var: x;
+            Function: fact 
+                Parameter: n, a
+                Body: 
+                    For (i[1123]=1232, abc[1213]<12310*.12+.123., a+2) Do
+                        For (i=1,i==b,i+3) Do
+                            EndFor.
+
+                    EndFor.
+                EndBody.
+            

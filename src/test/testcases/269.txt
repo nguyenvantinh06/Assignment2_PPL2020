@@ -1,0 +1,19 @@
+
+        Var: x=5,m=10,n={1,2,3},k,t,i,n,h[102]={1,2,3,"This is a string"};
+        Function: main
+        Parameter:a[3],b
+        Body:
+        While (i==a) Do
+        For (i=5,i<5,foo(3)) Do
+            i=i+1;
+        For (i=6,i<a,foo(foo(3*foo(3)))) Do
+        For (i=5+6,i<10*10-10.,foo(3)*foo(4)*.foo(4)) Do
+            i=10;
+            print("x");
+            print(asdfasdfs);
+        EndFor.
+        EndFor.
+        EndFor.
+        EndWhile.
+        EndBody.
+        

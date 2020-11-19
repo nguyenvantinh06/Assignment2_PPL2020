@@ -1,0 +1,12 @@
+
+Function: foo
+    Body:
+        While (i<3) Do
+            While (i>6) Do
+                While (abc+d123) Do
+                    a=a+1;
+                EndWhile.
+            EndWhile.
+        EndWhile.
+    EndBody.
+        

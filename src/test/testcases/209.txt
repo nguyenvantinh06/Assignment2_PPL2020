@@ -1,0 +1,10 @@
+
+        Function: foo
+        Body:
+      
+        While (n<10) && (m<10) && (check!=False)  Do 
+        y = foo(2 + x, 4. \. y)+a;
+        EndWhile.
+       
+        EndBody.
+        

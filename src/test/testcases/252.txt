@@ -1,0 +1,13 @@
+
+    Function: main
+    Parameter: a
+    Body: 
+        
+        While ( (a==2) && (a==3)) Do
+            foo(n%i-a[foo(i\4)]);
+            a[i]=a[j];
+            Break;
+            Return;
+        EndWhile.
+    EndBody.
+    

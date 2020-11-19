@@ -1,0 +1,10 @@
+
+        Function: main
+        Body:
+         i =foo_5(foo_2(foo_1(abc)\.foo_3(a[123]-foo_4(123))));     
+          If ( (a==2) && (a==3)) Then
+            foo(n%i-a[foo(i\4)]);
+            a[i]=a[j];
+            EndIf.
+        EndBody.
+        

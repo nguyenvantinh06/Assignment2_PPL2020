@@ -1,0 +1,9 @@
+
+        Var: a = 2,b=3,c=4,d=5;
+        Function: main
+        Parameter: n,m,l[2]
+        Body:
+        a = 6;
+
+        EndBody.
+        

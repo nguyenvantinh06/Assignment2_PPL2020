@@ -1,0 +1,11 @@
+
+                    Var: r = 10,i=213;
+                    Function: main
+                    Parameter: n, a[1][3][5][7][9], abc
+                    Body:
+                        a[3 + foo(2)] = a[b[2][3]] + 4;
+                        a="<TABLE>";
+                        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                        i="HoangvuTinh";
+                    EndBody.
+                

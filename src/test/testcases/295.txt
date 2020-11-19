@@ -1,0 +1,22 @@
+
+                    Var: r = 1110;
+                    Function: abc
+                    Parameter: n, a[5][7], bcd[9]
+                    Body:
+                        a[3 + foo(2)] = a[b[2][3]] + 4;
+                        
+                        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                        If (a==a-7)Then
+                        EndIf.
+                    EndBody.
+                   
+                    Function: a_b_c
+                    Parameter:t,i,n,h
+                    Body:
+                        a[3+a[3] + foo(1)] = a[10][10] + 4.e5;
+                        
+                        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                        While (a==a-7) Do
+                        EndWhile.
+                    EndBody.
+                

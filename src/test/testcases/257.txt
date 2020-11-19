@@ -1,0 +1,16 @@
+
+            Function: main1
+	        Body:
+		        Return a + b-c+d;
+	        EndBody.
+            Function: main
+	        Body:
+		        Var: c = 10,d=11,e=123;
+		        For (i = 0, i < 10, 1123) Do
+			        If s <=1 Then Break;
+                    Else a=a+1;
+                    a=foo(12-13)+foo(123+a[1][2]);
+			        EndIf.;
+		        EndFor.
+	        EndBody.
+            

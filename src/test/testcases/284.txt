@@ -1,0 +1,13 @@
+  Var: a = 3, b;
+                    Function: tinhasf
+                    Body:
+                    If(a==1) Then 
+                        While e != 5 Do
+                            For( id = 1235 ,id < 20,8) Do
+                            For (i=1,i<213,123) Do
+                            EndFor.
+                              EndFor.
+                        EndWhile.
+                    EndIf.
+                    EndBody.
+                

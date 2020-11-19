@@ -1,0 +1,14 @@
+
+            Function: main
+            
+            Body:
+            For (b[1][2][3][4] = 123, i <= 0.123, i + 10123) Do
+                x = a + b +. x;
+                y = a + 12000.23+.123;
+                z = (b || x) && c-123;
+            While (i==1)
+            Do
+            EndWhile.
+            EndFor.
+            EndBody.
+            

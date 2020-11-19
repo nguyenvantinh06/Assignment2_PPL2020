@@ -1,0 +1,7 @@
+
+        Var: a = 3, b=1,c,d,e="abc";
+        Function: main
+        Body:
+        While a<1 Do b=b+1; EndWhile.
+        EndBody.
+        

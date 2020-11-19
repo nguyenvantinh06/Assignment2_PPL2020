@@ -1,0 +1,10 @@
+
+        Var: a = 2;
+        Function: main
+        Body:
+        Break;
+        While (a==1) Do x=1;
+        EndWhile.
+        Continue;
+        EndBody.
+        

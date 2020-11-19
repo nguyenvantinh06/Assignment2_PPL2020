@@ -1,0 +1,11 @@
+
+        Function: main
+        Body:
+            Var: a,c,s[10],v;
+            test = (check==food);
+            v = 12. +. 10.1e-10 *. 10. \. 0.01e19 -. 1000000.00001e-19999999;
+            If ( (a==2) && (a==3)) Then
+            foo(n%i-a[foo(i\4)]);
+            EndIf.
+        EndBody.
+        

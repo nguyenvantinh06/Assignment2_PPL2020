@@ -1,0 +1,10 @@
+
+            Var: i=1;
+            Function: foo     
+                Body:
+                Var: a=0;
+                While (x = 1 *. 2 +.3 ) Do
+                 
+                EndWhile.
+                EndBody.
+            

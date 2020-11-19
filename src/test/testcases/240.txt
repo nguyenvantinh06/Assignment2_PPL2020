@@ -1,0 +1,31 @@
+ 
+            Var: a = 3, b;
+                Function: main
+                    Body:
+                    While (a ==1) > 5  Do 
+                    b=b+1;
+                    temp = a[j];
+                    a[j]=a[i];
+                    a[i]=temp;
+                    EndWhile.
+                    EndBody.
+                 Function: main2
+                    Body:
+                    For (j=foo(123)*foo(123),j<=(a+1),1+1+1) Do
+                     If (a[i]>a[j]) Then
+                         temp = a[j];
+                         a[j]=a[i];
+                            a[i]=temp;
+                        Return a=/=1;
+                         EndIf.
+                    EndFor.
+                    EndBody.
+                Function: main1
+                    Body:
+                    While (a < True) >( 5>5)  Do b=b+1; EndWhile.
+                    EndBody.
+                     Function: main3
+                    Body:
+                    While (a < True) > (5==5)  Do b=b+1; EndWhile.
+                    EndBody.
+                

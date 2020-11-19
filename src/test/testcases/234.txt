@@ -1,0 +1,11 @@
+
+    Var: r = 10;
+                    Function: abc
+                    Parameter: n, a[5][7], bcd[9]
+                    Body:
+                        Var: r = 10., v;
+                        v = (4. \. 3.) *. 3.14 *. r *. r *. r;
+                        If (a==a-7)Then
+                        EndIf.
+                    EndBody.
+                

@@ -1,0 +1,17 @@
+
+Function: main
+    Body:
+        If (n>1) Then
+            a=a+1;
+        ElseIf (a==5) Then
+                While (k<foo(a[n][b])) Do
+                    While (f!= 11-k) Do
+                        i=i-1;
+                    EndWhile.
+                EndWhile.
+        
+        ElseIf (a==6) Then i=i-1;
+        Else i=i+2;
+        EndIf.
+    EndBody.
+        

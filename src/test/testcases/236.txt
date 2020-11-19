@@ -1,0 +1,8 @@
+
+    Function: main
+    Parameter: a,b,c[1][2]
+    Body: 
+        If (i==0) Then Break;
+        Else Return foo4(i) * foo4(i+1);
+        EndIf.
+    EndBody.

@@ -1,0 +1,10 @@
+
+            Var: x;
+            Function: fact 
+                Parameter: n, a
+                Body: 
+                    For (a=2, a[1]<10, 2) Do
+                        x=n;
+                    EndFor.
+                EndBody.
+            

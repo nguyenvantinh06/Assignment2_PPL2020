@@ -1,0 +1,13 @@
+
+                Var: a=c, b=5;
+                    Function: main
+                    Body:
+                    If(i==i+1) Then 
+                        While imp != 5 Do
+                            For( index = 5123 ,ind < 20,8+1-4) Do 
+                            a= 1+2-3
+                            EndFor.
+                        EndWhile.
+                    EndIf.
+                    EndBody.
+        

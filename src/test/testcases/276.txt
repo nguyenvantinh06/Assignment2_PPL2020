@@ -1,0 +1,6 @@
+
+        Function:main
+        Body:
+        str1="\b\t\nasdf\rasdf\fadfasdf\' asdfdsfasdfstring";
+        str2=str1*10+ foo(4,a[2][123][123][a[2][3]]);
+        EndBody.

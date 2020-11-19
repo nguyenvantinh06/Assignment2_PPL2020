@@ -1,0 +1,16 @@
+
+             Function: foo 
+                Parameter: a[0x10][0X123], b[0o123][0O123] 
+                Body:
+                    For (i=5,i==6,6) Do
+                    i=13213123;
+                    EndFor. 
+                    Do c = a[{1,2,3}] - b[a[b[8+a[7+b[8]]]]];
+                    c = foo({1,2,3})*foo(1)*foo[1][2] - 2;
+                    Break;
+                    Return;
+
+                    While (c < 25) || (d > 9)
+                    EndDo.
+                EndBody.
+            

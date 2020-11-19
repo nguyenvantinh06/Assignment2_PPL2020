@@ -1,0 +1,19 @@
+
+            Var: x;
+            Function: fact 
+                Parameter: n, a
+                Body: 
+                    Var: temp123;
+                    temperature=n+123;
+                    x=temp+213;
+                    foo(123+foo(123+foo(123+foo())));
+                EndBody.
+             Function: fact123
+                Parameter: n
+                Body: 
+                    Var: temp;
+                    temp=n;
+                
+                    x=temp+a;
+                EndBody.
+            

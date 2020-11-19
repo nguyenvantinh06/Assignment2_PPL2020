@@ -1,0 +1,9 @@
+
+             Function: main
+                Parameter: a[10][10], b 
+                Body: 
+                    If bool_of_string Then 
+                        i=i+1;
+                    EndIf.
+                EndBody.
+            

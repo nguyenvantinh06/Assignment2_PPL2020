@@ -1,0 +1,11 @@
+
+            Function: test
+            Parameter: x, y, z
+            Body:
+            For (b[2] = 0, i > 0, i + 1) Do
+                x = a + b +. x;
+                y = a + 12000.;
+                z = b || x && c;
+            EndFor.
+            EndBody.
+            

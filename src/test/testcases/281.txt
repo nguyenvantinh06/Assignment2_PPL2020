@@ -1,0 +1,11 @@
+
+            Var: parser = 1810814;
+            Function: foo
+                Parameter: count, x, y, z
+                Body:
+                While ((x_13 == 1.0-8+.765 *. 2.098) || False) Do
+                While (x==123) Do
+                EndWhile.
+                EndWhile.
+                EndBody.
+            

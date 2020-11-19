@@ -1,0 +1,6 @@
+  Var: a = 5, b=1;
+                    Function:main
+                    Body:
+                    a=a+1;
+                    EndBody.
+                

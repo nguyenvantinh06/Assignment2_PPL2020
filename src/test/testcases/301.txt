@@ -1,0 +1,7 @@
+
+        Function: main
+        Parameter: a[5]
+        Body:
+        Break;
+        EndBody.
+        
